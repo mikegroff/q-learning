@@ -1,0 +1,49 @@
+<pre>--- Summary ---
+Tests passed: 0 out of 11
+
+--- Details ---
+Test #0: failed 
+Test case description: World 1
+NameError: global name 'timeout_manager' is not defined
+
+Test #1: failed 
+Test case description: World 2
+NameError: global name 'timeout_manager' is not defined
+
+Test #2: failed 
+Test case description: World 4
+NameError: global name 'timeout_manager' is not defined
+
+Test #3: failed 
+Test case description: World 6
+NameError: global name 'timeout_manager' is not defined
+
+Test #4: failed 
+Test case description: World 7
+NameError: global name 'timeout_manager' is not defined
+
+Test #5: failed 
+Test case description: World 8
+NameError: global name 'timeout_manager' is not defined
+
+Test #6: failed 
+Test case description: World 9
+NameError: global name 'timeout_manager' is not defined
+
+Test #7: failed 
+Test case description: World 10
+NameError: global name 'timeout_manager' is not defined
+
+Test #8: failed 
+Test case description: World 1, dyna=200
+NameError: global name 'timeout_manager' is not defined
+
+Test #9: failed 
+Test case description: World 2, dyna=200
+NameError: global name 'timeout_manager' is not defined
+
+Test #10: failed 
+Test case description: Author check
+NameError: global name 'timeout_manager' is not defined
+
+</pre>
